@@ -17,7 +17,7 @@
 
 ### 💼 Professional Experience
 
-* **Incoming Technology Consultant** @ **EY (Ernst & Young)** *(Spring 2026)* - Enterprise AI Integration.
+* **Incoming Technology Consultant** @ **EY (Ernst & Young)** - Enterprise AI Integration.
 * **Software Engineer Intern** @ **Wipro** - Automated onboarding for 1000+ hires using AWS/Docker.
 * **Software Engineer Intern** @ **West Berkshire Council** - Optimized SQL latency by 20%.
 
