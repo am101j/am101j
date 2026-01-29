@@ -9,7 +9,7 @@
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[OffsetAI](https://github.com/am101j/stocks-ai)** | `LangGraph` `MCP` `Pinecone` `Gemini 2.0` | **Agentic Financial Analyst.** Autonomous multi-agent system using MCP for secure local tool execution. |
-| **[Communify](https://github.com/shauraya-mohan/uofthacks-13)** | `Next.js 16` `FastAPI` `Gemini Vision` | **GovTech Platform.** Deployed city services app using multi-modal AI. **UofTHacks 13 Winner.** |
+| **[Communify](https://github.com/shauraya-mohan/uofthacks-13)** | `Next.js 16` `FastAPI` `Gemini Vision` | **GovTech Platform.** Deployed city services app using multi-modal AI. **UofTHacks 13.** |
 | **[RiskPulse](https://github.com/am101j/loan-default)** | `Python` `XGBoost` `OCR` `Postgres` | **Enterprise Risk Engine.** Credit default prediction system trained on 150k+ records. |
 | **[PulseAI](https://github.com/sweller226/pulseAI/tree/main)** | `C++` `Python` `WebSockets` `OpenCV` | **Real-Time Bio-Monitor.** Video pipeline with a custom **C++ to Python TCP bridge**. |
 
