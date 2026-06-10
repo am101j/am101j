@@ -17,7 +17,7 @@
 
 ### 💼 Professional Experience
 * **Software Engineeer** @ **Shopify** - Flow Tasks 
-* **Technology Consultant** @ **EY (Ernst & Young)** - Enterprise AI Integration.
+* **Technology Consultant** @ **EY (Ernst & Young)** - AI Agents for data transformations.
 * **Software Engineer Intern** @ **Wipro** - Automated onboarding for 1000+ hires using AWS/Docker.
 * **Software Engineer Intern** @ **West Berkshire Council** - Optimized SQL latency by 20%.
 
